@@ -28,5 +28,3 @@ A data-driven Power BI dashboard built to empower decision-making in the sports 
 - Improved **pricing and promotional tactics** using player performance and value data.
 - Gained a **competitive edge** in sponsorship and investment opportunities by showcasing quantifiable performance metrics.
 
-## 📁 Repository Structure
-
