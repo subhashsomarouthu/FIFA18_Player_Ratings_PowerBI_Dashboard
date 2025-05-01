@@ -1,5 +1,5 @@
 # FIFA18_Player_Ratings_PowerBI_Dashboard
-[[https://app.powerbi.com/groups/me/reports/7d1f2045-dc2b-443d-bb42-98a0056915a6/ReportSection?experience=power-bi]]
+[Dashboard](https://app.powerbi.com/groups/me/reports/7d1f2045-dc2b-443d-bb42-98a0056915a6/ReportSection?experience=power-bi)
 
 # ⚽ Sports & Gaming Business Insights Dashboard
 
